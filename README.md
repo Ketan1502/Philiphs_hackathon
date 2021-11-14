@@ -1,6 +1,6 @@
 # Finding_Adherence
 
-philiphs STRATETHON PROJECT
+Philiphs Hackathon PROJECT
 
 
 At First 
